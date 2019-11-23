@@ -1,0 +1,6 @@
+bs4
+lxml
+html5lib
+google_api_python_client
+oauth2client
+progress
